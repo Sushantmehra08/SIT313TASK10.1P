@@ -1,0 +1,40 @@
+.signup-container {
+  text-align: center; 
+  padding: 50px 325px;  
+  margin-top: 60px; 
+  min-height: 200px; 
+}
+
+.signup-header {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.signup-form {
+  display: inline-flex; 
+  align-items: center;
+  gap: 10px; 
+}
+
+.email-input {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
+
+.subscribe-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subscribe-button:hover {
+  background-color: #0056b3;
+}

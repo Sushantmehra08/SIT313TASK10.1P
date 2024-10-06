@@ -1,0 +1,15 @@
+.header-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between; 
+  height: 90vh; 
+  padding: 20px;
+  background-color: #5ca5a5; 
+}
+
+.App {
+  text-align: center;
+  width: 100%; 
+  height: 100%;
+}
