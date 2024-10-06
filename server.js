@@ -17,7 +17,7 @@ app.post('/send-email', async (req, res) => {
 
     const msg = {
         to: email,
-        from: "jirongling@gmail.com",  // Your verified SendGrid sender email
+        from: "sushantmehra008@gmail.com",  // Your verified SendGrid sender email
         subject: "Welcome!",
         text: "thank you for subscribe our dev@deakin"
     };
